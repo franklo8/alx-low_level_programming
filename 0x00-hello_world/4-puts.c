@@ -1,10 +1,8 @@
 #include <stdio.h>
 
-main()
+int main(void)
 {
-	char first_code[] = "Programming is like building a multilingual puzzle;
-
-	puts(first_code);
+	puts("\"Programming is like building a multilingual puzzle");
 
 	return(0);
 }
