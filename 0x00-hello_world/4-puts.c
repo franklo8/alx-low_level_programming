@@ -1,9 +1,9 @@
 #include <stdio.h>
-
 /**
- * A program that returns a string using a standard output puts()
+ *main- Serves as the entry point for the program
+ *
+ *Return: By default returns zero if no erros otherwise returns non-zero value.
  */
-
 int main(void)
 {
 
