@@ -1,9 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/* main - n store a different value every time the program run */
-
-/* This program assign a random number to n each time it is executed */
+/**
+ * main - Entry point
+ * Description: 'This program returns last digit of a number'
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int n;

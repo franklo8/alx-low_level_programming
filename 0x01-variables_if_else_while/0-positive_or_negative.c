@@ -1,9 +1,13 @@
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
-/* main - This code returns if the value is positive or negative */
-
-/* Tests if the value inputed is greater than or less than zero */
+/**
+ * main - Entry point
+ *
+ * Description: 'Assign a random number to n'
+ *
+ * Return: value 0 (Success)
+ */
 int main(void)
 {
 	int n;
