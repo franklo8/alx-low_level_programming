@@ -8,13 +8,13 @@
  */
 int main(void)
 {
-	char alph;
+	char h;
 
-	for (alph = 'a'; alph <= 'z'; alph++)
+	for (h = 'a'; h <= 'z'; h++)
 	{
-		if (alph != 'e' && 'q')
+		if (h != 'e' && 'q')
 	{
-		putchar(alph);
+		putchar(h);
 	}
 	}
 	putchar('\n');
