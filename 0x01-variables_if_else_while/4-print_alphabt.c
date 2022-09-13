@@ -1,12 +1,10 @@
 #include <stdio.h>
-
-
-/* *
- * main - Starting point
+/**
+ * main - starting point
  *
- * Description: 'Prints the alphabet in lowercase'
+ * Description: prints lowercase alphabets
  *
- * Return: lower case alphabets
+ * Return: 0
  */
 int main(void)
 {
@@ -16,9 +14,9 @@ int main(void)
 	{
 		if (alph != 'e' && 'q')
 	{
-		puchar (alph);
+		putchar(alph);
 	}
 	}
-	putchar('\n);
+	putchar('\n');
 	return (0);
 }
