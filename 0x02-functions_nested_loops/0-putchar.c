@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 /**
  * main - starting point 
  *
@@ -6,7 +6,6 @@
  *
  * return: 0
  */
-int _putchar(char c);
 
 int main(void)
 {
