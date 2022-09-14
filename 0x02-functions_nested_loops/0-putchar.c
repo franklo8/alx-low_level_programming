@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- * main - starting point 
+ * main - starting point
  *
- * Description: prints the character _putchar
+ * Description: 'prints the character _putchar'
  *
- * return: 0
+ * Return: 0
  */
 
 int main(void)
