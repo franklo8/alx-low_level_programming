@@ -1,6 +1,5 @@
 #include "main.h"
-#include <time.h>
-#include <stdio.h>
+
 /**
  * main - tests function that prints the function give correct output
  * Description: will it give the right output
