@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_most_numbers(void) - Callout function
+ * print_most_numbers - Callout function
  *
  * Description: Prints numbers 0 - 9 except 2 and 4
  *
