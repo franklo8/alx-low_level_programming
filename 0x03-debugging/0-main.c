@@ -3,7 +3,9 @@
 #include <stdio.h>
 /**
  * main - tests function that prints the function give correct output
- * Reurn: 0
+ * Description: will it give the right output
+ *
+ * Return: 0
  */
 
 int main(void)
