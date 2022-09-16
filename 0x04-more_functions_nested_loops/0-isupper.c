@@ -2,7 +2,7 @@
 /**
  * _isupper - checks if the file is uppercase
  *
- * Description: is the letter UPPERCASE
+ * @c: is the lette been checked
  *
  * Return: 0
  */
