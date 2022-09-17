@@ -1,8 +1,10 @@
 #include "main.h"
 /**
- * add: callout function
+ * add - callout function
  *
- * Description: Adds two numbers
+ * @a: First number to add
+ *
+ * @b: Second number to add
  *
  * Return: 0
  */
