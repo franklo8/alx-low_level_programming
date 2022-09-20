@@ -3,7 +3,7 @@
 /**
  * _strlen - Callout function
  *
- * @*s: Character to count
+ * @s: Character to count
  *
  * Return: 0
  */
