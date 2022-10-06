@@ -18,13 +18,12 @@ char *_strdup(char *str)
 		str_len++;
 	}
 	ptstr = malloc((str_len * sizeof(char)) + 1);
-
-	if (ptstr == NULL)
+	
+	if (ptstr == 0)
 	{
 		return (NULL);
 	}
-
-
+	
 	for (c = 0; str[c] != '\0'; c++)
 	{
 		ptstr[c] = str[c];
