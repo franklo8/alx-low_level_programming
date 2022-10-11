@@ -12,10 +12,10 @@
 void print_dog(struct dog *d)
 {
 	struct dog;
-
+	
 	if (d == NULL)
 	{
-		return;
+		printf("%s\n", "nil");
 	}
 	else
 	{
