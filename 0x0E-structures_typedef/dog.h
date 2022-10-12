@@ -11,14 +11,14 @@
  * Description: This is a database of dogs in my area
  *
  */
-struct dog
+struct dog_t
 {
 	char *name;
 	float age;
 	char *owner;
-} my_dog;
+};
 
-void init_dog(struct dog *d, char *name, float age, char *owner);
-void print_dog(struct dog *d);
+/*void init_dog(struct dog *d, char *name, float age, char *owner);*/
+/*void print_dog(struct dog *d);*/
 
 #endif
