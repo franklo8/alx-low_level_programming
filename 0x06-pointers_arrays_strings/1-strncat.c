@@ -3,7 +3,7 @@
  * _strncat - callout function
  * @dest: second file to join
  * @src: first file to join
- * 
+ * @n: length of array
  *
  * Return: 0
  */
