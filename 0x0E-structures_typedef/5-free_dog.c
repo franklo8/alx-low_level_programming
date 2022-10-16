@@ -2,7 +2,7 @@
 #include "dog.h"
 /**
  * free_dog - callout function
- * @d: pointer to dog 
+ * @d: pointer to dog
  *
  * Return: 0
  */
